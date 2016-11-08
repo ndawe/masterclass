@@ -39,6 +39,6 @@ else
 }
 
 // Create users
-create_user('student', 'ifoundparticles');
-create_user('admin', 'atlmas16');
+create_user('student', $studentpw);
+create_user('admin', $adminpw);
 ?>
