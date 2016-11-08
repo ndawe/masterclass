@@ -1,0 +1,4 @@
+*.min.js
+config.php
+uploads*
+bokeh
