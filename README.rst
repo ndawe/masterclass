@@ -1,12 +1,16 @@
 
-Create a config.php containing::
+Create a file ``config.php`` containing the following::
 
-   <?php
-   $username = "myusername";
-   $password = "mypassword";
-   $hostname = "localhost";
-   $database = "mydatabase";
-   ?>
+	<?php
+	$username = "mysqluser";
+	$password = "mysqlpw";
+	$hostname = "localhost";
+	$database = "mysqldb";
+	$studentpw = "studentpassword";
+	$adminpw = "adminpassword";
+	?>
+
+Set the values appropriately.
 
 To set up the database tables and users::
 
