@@ -4,11 +4,7 @@
 <meta charset="UTF-8">
 <title>ATLAS Masterclass Plotting</title>
 <script src="plotly-latest.min.js"></script>
-<script src="bokeh/bokeh-0.12.3.min.js"></script>
-
 <link rel="stylesheet" type="text/css" href="layout.css">
-<link rel="stylesheet" type="text/css" href="bokeh/bokeh-0.12.3.min.css">
-
 </head>
 <body>
 <?php require_once('data.php'); ?>
